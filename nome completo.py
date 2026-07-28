@@ -1,0 +1,7 @@
+frase = ('reynaldo viana')
+frase.upper()
+frase.lower()
+yep= len(frase.strip(frase))
+palavra= frase.split()
+misto = len(palavra[0])
+print(frase, frase.upper(), frase.lower(), yep, misto)

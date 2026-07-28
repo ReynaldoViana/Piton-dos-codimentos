@@ -1,0 +1,3 @@
+print('ola mundo')
+nome = input('Qual seu nome')
+print('Seja bem vindo', nome)
